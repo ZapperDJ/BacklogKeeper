@@ -44,6 +44,9 @@ Lastly, there is a "Stats" sheet that gives an overview of your collection's sta
 
 ## FAQ ##
 * Can I delete or add new platform columns?
+
 Yes
+
 * Do rows get auto colored when I change the game's status?
+
 Nope, you have to do it manually
