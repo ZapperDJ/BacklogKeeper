@@ -43,11 +43,11 @@ Yes
 
 * Do rows get auto colored when I change the game's status?
 
-Nope, you have to do it manually
+Yes
 
-* Why are some of cells colored yellow? 
+* Why are some of the platform cells bordered with the test in red? 
 
-This marks the platform in which I intend to play the game. Most useful when you have the same game on different platforms, but also I use it with game that I own on a single platform 
+This marks the platform in which I intend to play the game. Most useful when you have the same game on different platforms, but also I use it with game that I own on a single platform. If you want to use this easily, you can apply the "**\*\*Play Here**" custom style
 
 * Why does the duration column doesn't get it's data automatically from HowLongToBeat?
 
